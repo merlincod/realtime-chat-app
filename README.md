@@ -18,7 +18,7 @@ Suivez ces étapes pour mettre en place l'application sur votre machine locale.
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/realtime-chat-app.git
+git clone https://github.com/merlincod/realtime-chat-app.git
 cd realtime-chat-app
 ```
 
